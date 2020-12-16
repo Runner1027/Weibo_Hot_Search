@@ -2,7 +2,7 @@ name: main
 
 on:
   schedule:
-    - cron:  '*/2 * * * *'
+    - cron:  '*/15 * * * *'
 
 jobs:
   build:
